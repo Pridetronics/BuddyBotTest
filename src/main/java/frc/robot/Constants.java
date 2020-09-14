@@ -37,8 +37,8 @@ public final class Constants {
     }
 
     public static final class PistonsConstants {
-        public static final int kUpperPistonExtendChannel = 7;
-        public static final int kUpperPistonRetractChannel = 6;
+        public static final int kUpperPistonExtendChannel = 6;
+        public static final int kUpperPistonRetractChannel = 7;
         public static final int kLowerPistonExtendChannel = 4;
         public static final int kLowerPistonRetractChannel = 5;
 
